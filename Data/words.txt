@@ -1,0 +1,8 @@
+Dogs
+Animal
+Bee
+Anaconda
+Dogs
+Tyrannosaurus
+Stegosaurus
+Velociraptor
